@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, eu sou Pedro Otávio</h1>
 <h3 align="center">Um jornalista explorando a intersecção entre comunicação e dados</h3>
 
-- 🌱Atualmente estou aprendendo **Data Science & Analytics**
+- 🌱Atualmente estou aprendendo **Data Science & Analytics** no **MBA USP/ESALQ**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [pedroofreirereis.github.io/pedrootaviofreire/](pedroofreirereis.github.io/pedrootaviofreire/)
 
