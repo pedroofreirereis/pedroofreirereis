@@ -11,11 +11,13 @@
 
 - 📄 Aqui você pode ver minhas experiências e formações [linkedin.com/in/pedrootaviofreire/](linkedin.com/in/pedrootaviofreire/)
 
-- Veja meu trabalho: [Análise de Vendas com SQL e Power BI](https://medium.com/@pdotvfrs/an%C3%A1lise-de-vendas-com-sql-e-power-bi-fa95e2d29b01)
+<h3 align="center">Veja meu trabalho:</h3>
 
-- 👯 [Análise de Engajamento e Interação em Streaming de Jogos na Twitch](https://medium.com/@pdotvfrs/an%C3%A1lise-de-engajamento-e-intera%C3%A7%C3%A3o-em-streaming-de-jogos-na-twitch-f85fc422746e)
+- 💹 [Análise de Vendas com SQL e Power BI](https://medium.com/@pdotvfrs/an%C3%A1lise-de-vendas-com-sql-e-power-bi-fa95e2d29b01)
 
-- 🤝 [Análise Exploratória do Catálogo Netflix](https://www.kaggle.com/code/pedrootviofreirereis/an-lise-explorat-ria-do-cat-logo-netflix?scriptVersionId=138403722)
+- 👾 [Análise de Engajamento e Interação em Streaming de Jogos na Twitch](https://medium.com/@pdotvfrs/an%C3%A1lise-de-engajamento-e-intera%C3%A7%C3%A3o-em-streaming-de-jogos-na-twitch-f85fc422746e)
+
+- 🎥 [Análise Exploratória do Catálogo Netflix](https://www.kaggle.com/code/pedrootviofreirereis/an-lise-explorat-ria-do-cat-logo-netflix?scriptVersionId=138403722)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
