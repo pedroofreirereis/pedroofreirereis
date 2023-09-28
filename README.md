@@ -3,7 +3,7 @@
 
 - 🌱Atualmente estou aprendendo **Frontend Development**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [pedroofreirereis.github.io/pedrootaviofreire/](pedroofreirereis.github.io/pedrootaviofreire/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [pedroofreirereis.github.io/pdotvfrs/](https://pedroofreirereis.github.io/pdotvfrs/)
 
 - 💬 Me pergunte sobre **HTML, CSS, JavaScript e React**
 
