@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, eu sou Pedro Otávio</h1>
-<h3 align="center">Jornalista & Editor de Multimídia</h3>
+<h3 align="center">Jornalista, Editor de Vídeo estudando Desenvolvimento Web</h3>
 
 - 🌱Atualmente estou aprendendo **Frontend Development**
 
